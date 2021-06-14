@@ -1,0 +1,6 @@
+{
+    "configuration": "CpuFrequency=80,UploadSpeed=115200,FlashSize=4M3M",
+    "board": "esp8266:esp8266:huzzah",
+    "port": "COM6",
+    "sketch": "esp.ino"
+}
